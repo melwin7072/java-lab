@@ -1,11 +1,13 @@
-public class computerArea
+public class computerarea
 {
-  public static void main(string[] args)
-  {
-     double radius;
-     double area;
-     radius=2;
-     area=radius*radius*3.14;
-     System.out.println("area="+area);
-  }
+public static void main(string args[])
+{
+double radius;
+double area;
+radius=20;
+area=radius*radisu*3.14159;
+System.out.println("area="+area);
+}
+area=100
+}
 }
